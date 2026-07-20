@@ -1,4 +1,4 @@
-# Nigel Free Resources
+# Nigel's Free Resources
 
 Welcome!
 
@@ -11,6 +11,8 @@ Everything here is designed to help you organize information, preserve context, 
 - AI Project Kickoff Template
 - More coming soon...
 
+
+Thank you from Nigel!
 ---
 
 Less Time Remembering. More Time Living.
