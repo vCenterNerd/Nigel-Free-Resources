@@ -6,7 +6,8 @@ This repository contains the free templates, worksheets, and practical AI resour
 
 Everything here is designed to help you organize information, preserve context, reduce cognitive load, and build practical systems that last.
 
-Thank you from Nigel!
+I hope these resources save you time and help you build better systems.
+
 
 ## Available Resources
 
